@@ -7,8 +7,8 @@ class test(unittest.TestCase):
     # parameters for machine translation
     n_head = 8
     d_model = 512
-    d_k = 64 
-    d_v = 64 
+    d_k = 64
+    d_v = 64
     dropout = 0.1
     batch_size = 2
     vocab_size = 1000
