@@ -108,3 +108,6 @@ venv.bak/
 
 *.swp
 PointerNet
+Deep-reinforcement-learning-with-pytorch
+baselines
+relational-networks
